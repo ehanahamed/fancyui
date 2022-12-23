@@ -9,3 +9,5 @@ fancyui should be used with a "renderer":
 fancytui is a renderer for fancyui, specifically for rendering to the command line as a text-ui or "tui" (see fancytui's github [here](https://github.com/EhanAhamed/fancytui))
 
 fancygui is another renderer for fancyui, specifically for graphical something something (see fancygui's github somewhere i didnt make it yet lol)
+
+> note to self: mabye the names are too similar and i should rename one of them lol
